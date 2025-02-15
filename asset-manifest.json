@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/LiveDonate/static/css/main.9ad5a9bd.css",
-    "main.js": "/LiveDonate/static/js/main.b3723109.js",
+    "main.js": "/LiveDonate/static/js/main.8f1eee7a.js",
     "static/js/488.606cabdb.chunk.js": "/LiveDonate/static/js/488.606cabdb.chunk.js",
     "static/media/logo.jpg": "/LiveDonate/static/media/logo.7b4b8d43eba1f1e5c0d5.jpg",
     "static/media/dashboard.jpg": "/LiveDonate/static/media/dashboard.5d0a56045ec16df0d284.jpg",
     "index.html": "/LiveDonate/index.html",
     "main.9ad5a9bd.css.map": "/LiveDonate/static/css/main.9ad5a9bd.css.map",
-    "main.b3723109.js.map": "/LiveDonate/static/js/main.b3723109.js.map",
+    "main.8f1eee7a.js.map": "/LiveDonate/static/js/main.8f1eee7a.js.map",
     "488.606cabdb.chunk.js.map": "/LiveDonate/static/js/488.606cabdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ad5a9bd.css",
-    "static/js/main.b3723109.js"
+    "static/js/main.8f1eee7a.js"
   ]
 }
