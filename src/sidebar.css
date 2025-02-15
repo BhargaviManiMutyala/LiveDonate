@@ -1,0 +1,71 @@
+.logo-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+    padding-left: 45px;
+  }
+  
+  .logo {
+    width: 100px;
+    height: auto;
+    border-radius: 45%;
+  }
+  
+  #sidebar {
+    width: 17%;
+    background-color: #ffffff;
+    padding: 20px;
+    min-height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #sidebar h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .menu-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .menu-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  #dashboard-menu {
+    background: linear-gradient(135deg, #ff6b6b, #ff3e3e);
+    color: white;
+    box-shadow: 0px 4px 6px rgba(255, 0, 0, 0.3);
+  }
+  
+  #dashboard-menu:hover {
+    background: linear-gradient(135deg, #ff3e3e, #ff1e1e);
+    transform: scale(1.05);
+  }
+  
+  #transactions-menu {
+    background: linear-gradient(135deg, #dc3545, #b22234);
+    color: white;
+    box-shadow: 0px 4px 6px rgba(220, 53, 69, 0.3);
+  }
+  
+  #transactions-menu:hover {
+    background: linear-gradient(135deg, #b22234, #900d19);
+    transform: scale(1.05);
+  }
+  
